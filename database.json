@@ -71,6 +71,16 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Seymour Butts",
+            "specialty": "iPhone"
+        },
+        {
+            "id": 4,
+            "name": "Issa Problem",
+            "specialty": "Printers"
         }
     ],
     "serviceTickets": [
